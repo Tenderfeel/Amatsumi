@@ -46,6 +46,7 @@ FF14 ACT Plugin
 ## Area Name List
 
 | Zone Name | Map Name | Detail |
+| ---- | ---- |---- | 
 | Idyllshire | Idyllshire | イディルシャイア |
 | Empyreum | Empyreum: Empyreum | エンピレアム |
 | Limsa Lominsa Lower Decks | | リムサ・ロミンサ：下甲板層 |
